@@ -1,4 +1,6 @@
-# uas
+# UAS LAB PBK
+NAMA: ALDI SIS APRIADI
+NPM: 213510094
 
 ## Project setup
 ```
